@@ -26,10 +26,6 @@
 #define MQTT_MAX_PACKET_SIZE 512
 #endif
 
-#ifndef MQTT_NO_MAX_TRANSFER_SIZE
-#define MQTT_MAX_TRANSFER_SIZE 512
-#endif
-
 // MQTT_KEEPALIVE : keepAlive interval in Seconds
 #ifndef MQTT_KEEPALIVE
 #define MQTT_KEEPALIVE 15

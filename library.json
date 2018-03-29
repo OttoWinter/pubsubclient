@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/OttoWinter/pubsubclient.git"
     },
-    "version": "2.7",
+    "version": "2.7.1",
     "exclude": "tests",
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
